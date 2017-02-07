@@ -27,7 +27,7 @@ in vivo and in vitro studies.
 
 ## Contact Info 
 
-phone: (787) 718-2752
+phone: (787) 718-2752 
 e-mail: <paola.figueroa2@upr.edu> | alt: <paolafigueroadelgado@gmail.com>  
 github: <https://github.com/paolavfigueroa>  
 linkedin: <https://www.linkedin.com/paolavfigueroadelgado>
